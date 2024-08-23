@@ -1,2 +1,5 @@
-# Diabetes Predictive Model
-This project aims to train a predictive model to diagnose diabetes on women patients.
+# Key Features
+- Training predictive models
+- Using data from Kaggle
+- Data Visualization
+- Evaluate models
