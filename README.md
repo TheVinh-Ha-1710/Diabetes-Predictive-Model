@@ -1,2 +1,2 @@
-# Data-Science---Portfolio
-My data science portfolio projects.
+# Diabetes Predictive Model
+This project aims to train a predictive model to diagnose diabetes on women patients.
