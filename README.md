@@ -67,10 +67,10 @@ This project focuses on training a predictive machine learning model to diagnose
 ## Folder Structure
 
 ```
-📂 Diabetes-Predictive-Model      
+📂 Diabetes-Predictive-Model
+ ├── 📜 README.md               # Project documentation   
  ├── 📜 diabetes.csv            # Model training script notebook  
  ├── 📜 model_training.ipynb    # Dataset  
- ├── 📜 moodel_training.pdf     # PDF version of the notebook
- ├── 📜 requirements.txt        # Dependencies
- ├── 📜 README.md               # Project documentation    
+ ├── 📜 model_training.pdf      # PDF version of the notebook
+ ├── 📜 requirements.txt        # Dependencies    
 ```
